@@ -9,3 +9,4 @@ During this lab we were directed to practice many skills that will help us get m
 - We examined code using the spread operator
 
 ![IT](https://user-images.githubusercontent.com/81718217/120878046-bba29180-c56e-11eb-8050-75fcc022b54a.jpg)
+
